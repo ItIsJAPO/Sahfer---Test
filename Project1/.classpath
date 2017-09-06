@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="project1/src/main/java"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/javax.persistence/SNAPSHOT/javax.persistence-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.antlr/SNAPSHOT/org.eclipse.persistence.antlr-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.asm/SNAPSHOT/org.eclipse.persistence.asm-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.core/SNAPSHOT/org.eclipse.persistence.core-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.dbws/SNAPSHOT/org.eclipse.persistence.dbws-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.jpa.jpql/SNAPSHOT/org.eclipse.persistence.jpa.jpql-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.jpa.modelgen.processor/SNAPSHOT/org.eclipse.persistence.jpa.modelgen.processor-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.jpa/SNAPSHOT/org.eclipse.persistence.jpa-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.moxy/SNAPSHOT/org.eclipse.persistence.moxy-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="project1/lib/unknown/binary/org.eclipse.persistence.oracle/SNAPSHOT/org.eclipse.persistence.oracle-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
